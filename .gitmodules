@@ -1,0 +1,3 @@
+[submodule "safe-explorer"]
+	path = safe-explorer
+	url = https://github.com/AgrawalAmey/safe-explorer
