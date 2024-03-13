@@ -12,7 +12,7 @@ There are two environments proposed in the paper for reference, namely the `Ball
 
 ## Project based resources
 
-- [Intro PPT]()
+- [Intro PPT](https://github.com/Rajarshi1001/CS780_Project/blob/master/CS780-Project-Initial-Presentation-4.pdf)
 - [Mid-Term Report]()
  
 
